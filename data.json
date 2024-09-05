@@ -1,0 +1,22 @@
+[
+    {
+        "input": "Qual é a capital da França?",
+        "output": "A capital da França é Paris."
+    },
+    {
+        "input": "Quem escreveu 'Dom Casmurro'?",
+        "output": "O autor de 'Dom Casmurro' é Machado de Assis."
+    },
+    {
+        "input": "Qual é a fórmula química da água?",
+        "output": "A fórmula química da água é H2O."
+    },
+    {
+        "input": "Qual é a maior montanha do mundo?",
+        "output": "A maior montanha do mundo é o Monte Everest."
+    },
+    {
+        "input": "Quem pintou a Mona Lisa?",
+        "output": "A Mona Lisa foi pintada por Leonardo da Vinci."
+    }
+]
